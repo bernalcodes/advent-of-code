@@ -1,10 +1,5 @@
 import java.util.Scanner;
 
-/**
- * rock(1) - paper(2) - scissors(3)
- * part2: X(loss) - Y(draw) - Z(win)
- */
-
 public class App {
 	private static Scanner sc = new Scanner(System.in);
 

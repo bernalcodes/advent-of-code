@@ -1,0 +1,14 @@
+{
+	"files.associations": {
+		"*.html": "html",
+		"**/*.html": "html",
+		"**/resources/templates/**/*.html": "html",
+		"**/resources/templates/*.html": "html",
+		"**/templates/**/*.html": "html",
+		"**/requirements{/**,*}.{txt,in}": "pip-requirements",
+		"iostream": "cpp",
+		"*.tcc": "cpp",
+		"ostream": "cpp",
+		"regex": "cpp"
+	}
+}

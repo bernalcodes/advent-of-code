@@ -24,7 +24,7 @@ public class App {
 		}
 
 		System.out.println("containmentCount: " + containmentCount);
-		System.out.println("containmentCount: " + overlappingCount);
+		System.out.println("overlappingCount: " + overlappingCount);
 	}
 
 	private static Pair<Pair<Integer, Integer>, Pair<Integer, Integer>> processPairs(String ln) {
